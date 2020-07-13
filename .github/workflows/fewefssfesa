@@ -1,2 +1,1 @@
-push
-text = joe mama
+git push -u origin master
